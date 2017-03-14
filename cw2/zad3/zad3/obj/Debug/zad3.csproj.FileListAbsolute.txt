@@ -1,0 +1,9 @@
+D:\projects\ZPrOb\C02\zad3\zad3\bin\Debug\zad3.exe.config
+D:\projects\ZPrOb\C02\zad3\zad3\bin\Debug\zad3.exe
+D:\projects\ZPrOb\C02\zad3\zad3\bin\Debug\zad3.pdb
+D:\projects\ZPrOb\C02\zad3\zad3\obj\Debug\zad3.csprojResolveAssemblyReference.cache
+D:\projects\ZPrOb\C02\zad3\zad3\obj\Debug\zad3.exe
+D:\projects\ZPrOb\C02\zad3\zad3\obj\Debug\zad3.pdb
+C:\Users\Olgierd\Downloads\ZPrOb-master (21\ZPrOb-master\C02\zad3\zad3\bin\Debug\zad3.exe.config
+C:\Users\Olgierd\Downloads\ZPrOb-master (21\ZPrOb-master\C02\zad3\zad3\obj\Debug\zad3.exe
+C:\Users\Olgierd\Downloads\ZPrOb-master (21\ZPrOb-master\C02\zad3\zad3\obj\Debug\zad3.pdb
