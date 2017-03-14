@@ -1,0 +1,6 @@
+E:\zpo\1\1\1\1\bin\Debug\1.exe.config
+E:\zpo\1\1\1\1\obj\Debug\1.csprojResolveAssemblyReference.cache
+E:\zpo\1\1\1\1\bin\Debug\1.exe
+E:\zpo\1\1\1\1\bin\Debug\1.pdb
+E:\zpo\1\1\1\1\obj\Debug\1.exe
+E:\zpo\1\1\1\1\obj\Debug\1.pdb
