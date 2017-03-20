@@ -1,0 +1,8 @@
+C:\Users\Olgierd\Desktop\Nowy folder (3)\trzecie\2\2\bin\Debug\2.exe.config
+C:\Users\Olgierd\Desktop\Nowy folder (3)\trzecie\2\2\bin\Debug\2.exe
+C:\Users\Olgierd\Desktop\Nowy folder (3)\trzecie\2\2\bin\Debug\2.pdb
+C:\Users\Olgierd\Desktop\Nowy folder (3)\trzecie\2\2\bin\Debug\nunit.framework.dll
+C:\Users\Olgierd\Desktop\Nowy folder (3)\trzecie\2\2\bin\Debug\nunit.framework.xml
+C:\Users\Olgierd\Desktop\Nowy folder (3)\trzecie\2\2\obj\Debug\2.csprojResolveAssemblyReference.cache
+C:\Users\Olgierd\Desktop\Nowy folder (3)\trzecie\2\2\obj\Debug\2.exe
+C:\Users\Olgierd\Desktop\Nowy folder (3)\trzecie\2\2\obj\Debug\2.pdb
