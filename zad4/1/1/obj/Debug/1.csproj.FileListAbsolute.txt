@@ -1,0 +1,6 @@
+C:\Users\Olgierd\Desktop\Nowy folder (3)\zad4\1\1\bin\Debug\1.exe.config
+C:\Users\Olgierd\Desktop\Nowy folder (3)\zad4\1\1\bin\Debug\1.exe
+C:\Users\Olgierd\Desktop\Nowy folder (3)\zad4\1\1\bin\Debug\1.pdb
+C:\Users\Olgierd\Desktop\Nowy folder (3)\zad4\1\1\obj\Debug\1.csprojResolveAssemblyReference.cache
+C:\Users\Olgierd\Desktop\Nowy folder (3)\zad4\1\1\obj\Debug\1.exe
+C:\Users\Olgierd\Desktop\Nowy folder (3)\zad4\1\1\obj\Debug\1.pdb
