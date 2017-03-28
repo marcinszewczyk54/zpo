@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace _3
 {
-    class AppleEkran
+    class AppleEkran:IEkran
     {
+        public void produkuj()
+        {
+            Console.WriteLine("wyprodukowano ekrean Apple");
+        }
     }
 }

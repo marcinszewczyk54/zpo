@@ -8,5 +8,8 @@ namespace _3
 {
     interface IFabryka
     {
+        IEkran produkujEkran();
+        IObudowa produkujObudowe();
+
     }
 }

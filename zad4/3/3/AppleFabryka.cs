@@ -6,7 +6,16 @@ using System.Threading.Tasks;
 
 namespace _3
 {
-    class AppleFabryka
+    class AppleFabryka:IFabryka
     {
+        public IEkran produkujEkran()
+        {
+            return new AppleEkran();
+        }
+
+        public IObudowa produkujObudowe()
+        {
+            return new AppleObudowa();
+        }
     }
 }

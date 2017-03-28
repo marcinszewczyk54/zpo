@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace _3
 {
-    class AppleObudowa
+    class AppleObudowa:IObudowa
     {
+        public void produkuj()
+        {
+            Console.WriteLine("wyprodukowano obudowe Apple");
+        }
     }
 }

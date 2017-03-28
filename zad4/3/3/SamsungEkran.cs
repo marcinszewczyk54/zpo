@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace _3
 {
-    class SamsungEkran
+    class SamsungEkran:IEkran
     {
+
+        public void produkuj()
+        {
+            Console.WriteLine("wyprodukowano ekrean Samsung");
+        }
     }
 }

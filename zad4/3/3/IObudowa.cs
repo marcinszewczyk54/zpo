@@ -8,5 +8,6 @@ namespace _3
 {
     interface IObudowa
     {
+        void produkuj();
     }
 }

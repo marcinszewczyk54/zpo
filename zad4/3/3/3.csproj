@@ -41,8 +41,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AppleEkran.cs" />
+    <Compile Include="AppleFabryka.cs" />
+    <Compile Include="AppleObudowa.cs" />
+    <Compile Include="IEkran.cs" />
+    <Compile Include="IFabryka.cs" />
+    <Compile Include="IObudowa.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SamsungEkran.cs" />
+    <Compile Include="SamsungFabryka.cs" />
+    <Compile Include="SamsungObudowa.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

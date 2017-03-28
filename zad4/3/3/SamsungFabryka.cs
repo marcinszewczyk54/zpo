@@ -6,7 +6,16 @@ using System.Threading.Tasks;
 
 namespace _3
 {
-    class SamsungFabryka
+    class SamsungFabryka:IFabryka
     {
+        public IEkran produkujEkran()
+        {
+          return new SamsungEkran();
+        }
+
+        public IObudowa produkujObudowe()
+        {
+            return new SamsungObudowa();
+        }
     }
 }

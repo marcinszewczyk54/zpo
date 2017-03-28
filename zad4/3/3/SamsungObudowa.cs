@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace _3
 {
-    class SamsungObudowa
+    class SamsungObudowa:IObudowa
     {
+        public void produkuj()
+        {
+            Console.WriteLine("wyprodukowano obudowe Samsung");
+        }
     }
 }
